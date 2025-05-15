@@ -75,7 +75,10 @@ The test suite is in `tests/carbonpay-marketplace.ts` and covers:
 - **Purchase Carbon Credits** (SOL transfer, NFT/token minting, fee distribution)
 - **Request Offset** (burn NFT, partial mint, register offset)
 
-Example test output:
+Test output:
+
+![Tests](./assets/tests.png)
+
 
 ```
   CarbonPay Program Test Suite
@@ -221,6 +224,4 @@ carbonpay-marketplace/
 
 IDL auto-generated at `target/idl/carbon_pay.json`.
 
-## License
 
-[MIT](./LICENSE) or insert your license here.
