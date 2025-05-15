@@ -6,7 +6,7 @@ mod errors;
 
 use instructions::*;
 
-declare_id!("6CQ4FxzFPcHAS391UD56TyC9qiwiSKB4wAXRQDP9HfaS");
+declare_id!("b6Yz3TrG29otpSnLzJTNCB1vxxcwJCTuPHdCfR9Njqs");
 
 #[program]
 pub mod carbon_pay {
